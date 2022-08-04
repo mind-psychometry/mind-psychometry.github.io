@@ -10,7 +10,7 @@ As a combined effort to increase the precision of psychological measurement, we,
 - Rotter's I-E Scale (Manuscript under preparation)
 - Five Facet Mindfulness Questionnaires (Permission obtained)
 - Big Five Personality Inventory 2
-- Guilt & Shame Proness Scale 
+
 
 
 
