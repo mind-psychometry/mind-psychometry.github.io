@@ -1,5 +1,6 @@
-![MP logo](https://github.com/mind-psychometry/mind-psychometry.github.io/raw/main/mplogo.jpg)
 ## Development, Adaptation and Psychometric Validation of Psychological Measurement Tools in Bangla Language
+
+![MP logo](https://github.com/mind-psychometry/mind-psychometry.github.io/raw/main/mplogo.jpg)
 
 ### About
 
