@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : LEBA
+title : Mind Psychometry
 author :
-  name : Manuel Spitschan
-  github : leba-instrument
+  name : Mushfiqul Anwar Siraji
+  github : mind-psychometry
 
 
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://leba-instrument.github.io/
+production_url : https://mindpsychometry.masiraji.com
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
